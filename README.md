@@ -1,7 +1,8 @@
 # MicroPython中文教程
 
-最全面的MicroPython中文教程，资料来源于MicroPython官方文档、社区活动、网友经验分享等。
+![cover](cover.png)
 
+最全面的MicroPython中文教程，资料来源于MicroPython官方文档、社区活动、网友经验分享等。
 
 作者：[shaoziyang](mailto:shaoziyang@outlook.com)
 
